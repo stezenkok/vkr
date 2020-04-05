@@ -9,9 +9,9 @@ using System.Windows.Forms;
 
 namespace TimetableEditor
 {
-    public partial class Form1 : Form
+    public partial class Rooms : Form
     {
-        public Form1()
+        public Rooms()
         {
             InitializeComponent();
         }
