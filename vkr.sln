@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-VisualStudioVersion = 16.0.29926.136
+VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimetableEditor", "TimetableEditor.csproj", "{9C10FE20-8C84-4E2F-84DD-F32EFCF17450}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vkr", "vkr.csproj", "{46E847A9-B84C-4BEE-A518-24B5271960A1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9C10FE20-8C84-4E2F-84DD-F32EFCF17450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9C10FE20-8C84-4E2F-84DD-F32EFCF17450}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9C10FE20-8C84-4E2F-84DD-F32EFCF17450}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9C10FE20-8C84-4E2F-84DD-F32EFCF17450}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46E847A9-B84C-4BEE-A518-24B5271960A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46E847A9-B84C-4BEE-A518-24B5271960A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46E847A9-B84C-4BEE-A518-24B5271960A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46E847A9-B84C-4BEE-A518-24B5271960A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {E1E5ED1D-75C3-4DA8-B0EB-F02B232FBFC3}
+		SolutionGuid = {39C331E3-2527-432A-88A7-0F0F1B8D08D9}
 	EndGlobalSection
 EndGlobal

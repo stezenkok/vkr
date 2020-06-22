@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace TimetableEditor.Properties
+namespace vkr.Properties
 {
 
 
